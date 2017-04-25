@@ -1,0 +1,10 @@
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\bin\Debug\Sistema.Lara.Carolina.exe.config
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\obj\Debug\Sistema.Lara.Carolina.csprojResolveAssemblyReference.cache
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\obj\Debug\Sistema.Lara.Carolina.CadCliente.resources
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\obj\Debug\Sistema.Lara.Carolina.MDIForm.resources
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\obj\Debug\Sistema.Lara.Carolina.Properties.Resources.resources
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\obj\Debug\Sistema.Lara.Carolina.csproj.GenerateResource.Cache
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\bin\Debug\Sistema.Lara.Carolina.exe
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\bin\Debug\Sistema.Lara.Carolina.pdb
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\obj\Debug\Sistema.Lara.Carolina.exe
+D:\Desenvolvimentos\Sistema Loteamento\Lara Carolina\Fontes\Sistema.Lara.Carolina\Sistema.Lara.Carolina\obj\Debug\Sistema.Lara.Carolina.pdb
